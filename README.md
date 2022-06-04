@@ -1,11 +1,14 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-This project was initiated by Louise, who is looking to fund her play, Fever. She believes she will need to raise $10,000, and would like to set herself up for success in crowdfunding by first analyzing data on other crowdfunding projects from Kickstarter.
+This project was initiated by Louise, who is looking to fund her play, Fever, via crowdfunding. She believes she will need to raise $10,000, and would like to set herself up for success in crowdfunding by first analyzing data on other crowdfunding projects from Kickstarter.
+
 ### Purpose
-The purpose of this project is to analyze crowdfunding data to identify what factors increase the likelihood of a particular project being successful. In this case, I am looking to determine what makes a crowdfunding project for a play successful. 
+The purpose of this project is to analyze crowdfunding data to identify what factors increase the likelihood of a particular project's success. In this case, I am looking to determine what makes crowdfunding for a play successful. 
+
 ## Analysis and Challenges
-The full results of the analysis can be found here: [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx). 
+The full data set and analysis can be found here: [Kickstarter_Challenge.xlsx.zip](Kickstarter_Challenge.xlsx.zip). 
+
 ### Analysis of Outcomes Based on Launch Date
 To analyze if launch date had any correlation with the success of a crowdfunding project, I first used a formula to convert the Unix timestamps in the "deadline" and "launched_at" columns into readable dates. I then was able to create a pivot table that showed how many successful, failed, and canceled projects happened in each month of the year, filtered by theater projects specifically.
 
