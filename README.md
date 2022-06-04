@@ -5,10 +5,14 @@ This project was initiated by Louise, who is looking to fund her play, Fever. Sh
 ### Purpose
 The purpose of this project is to analyze crowdfunding data to identify what factors increase the likelihood of a particular project being successful. In this case, I am looking to determine what makes a crowdfunding project for a play successful. 
 ## Analysis and Challenges
-Explain how you performed your analysis using images and links to code, as well as any challenges you encountered and how you overcame them. If you had no challenges, describe any possible challenges or difficulties that could be encountered.
+The full results of the analysis can be found here: [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx)
 ### Analysis of Outcomes Based on Launch Date
-To analyze if launch date had any correlation with the success of a crowdfunding project, I first used a formula to convert the Unix timestamps in the "deadline" and "launched_at" columns into readable dates. I then was able to create a pivot table that showed how many successful, failed, and caled projects happened in each month of the year, filtered by theater projects specifically. The results of the analysis can be viewed here: ![Outcomes_vs_Goals.png.png](Outcomes_vs_Goals.png.png)
+To analyze if launch date had any correlation with the success of a crowdfunding project, I first used a formula to convert the Unix timestamps in the "deadline" and "launched_at" columns into readable dates. I then was able to create a pivot table that showed how many successful, failed, and canceled projects happened in each month of the year, filtered by theater projects specifically.
 
+The graph below shows the results of that analysis:
+---
+![Outcomes_vs_Goals.png.png](Outcomes_vs_Goals.png.png)
+---
 Overall, the number of canceled and failed projects were more or less consistent across time. The number of successful projects, however, spiked in the months of May and June, remaining elevated in July and August until returning to normal levels for the fall and dipping in the winter.
 
 
