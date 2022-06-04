@@ -21,7 +21,7 @@ I then set out to look at plays (a subcategory of theater projects) specifically
 
 The graph below shows the results of that analysis:
 
-![Outcomes_vs_Goals.png.png](Outcomes_vs_Goals.png.png)
+![Outcomes_vs_Goals.png](Outcomes_vs_Goals.png)
 
 It appears that projects were more likely to be successful if their goal was set to less than $5,000, or between $35,000 and $45,000. Failures spiked for projects with goals between $25,000 and $35,000, and greater than $45,000. Otherwise, the likelihood of success or failure was close to a coin flip.
 
